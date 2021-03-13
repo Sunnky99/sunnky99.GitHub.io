@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mangata</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-10T08:50:44.158Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>海里盐</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站建设日志</title>
+    <link href="http://example.com/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/"/>
+    <id>http://example.com/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/</id>
+    <published>2021-03-09T16:00:00.000Z</published>
+    <updated>2021-03-10T08:50:44.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://example.com/2021/03/09/about/"/>
+    <id>http://example.com/2021/03/09/about/</id>
+    <published>2021-03-08T16:00:00.000Z</published>
+    <updated>2021-03-10T13:29:01.436Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>🍴 烹饪笔记 | 2021.3.咖喱、小酥肉与包菜肉卷</title>
+    <link href="http://example.com/2021/03/07/%F0%9F%8D%B4%20%E7%83%B9%E9%A5%AA%E7%AC%94%E8%AE%B0%202021%203%20%E5%92%96%E5%96%B1%E3%80%81%E5%B0%8F%E9%85%A5%E8%82%89%E4%B8%8E%E5%8C%85%E8%8F%9C%E8%82%89%E5%8D%B7%206d515147c7614e43a1b5377786d7d721/"/>
+    <id>http://example.com/2021/03/07/%F0%9F%8D%B4%20%E7%83%B9%E9%A5%AA%E7%AC%94%E8%AE%B0%202021%203%20%E5%92%96%E5%96%B1%E3%80%81%E5%B0%8F%E9%85%A5%E8%82%89%E4%B8%8E%E5%8C%85%E8%8F%9C%E8%82%89%E5%8D%B7%206d515147c7614e43a1b5377786d7d721/</id>
+    <published>2021-03-06T16:00:00.000Z</published>
+    <updated>2021-03-10T10:40:05.087Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Date: Mar 7, 2021&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ftp.bmp.ovh/imgs/2021/03/8ce7ea1d9895f123.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这周做了两顿晚餐，尝试了几个新菜谱。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="烹饪笔记" scheme="http://example.com/categories/%E7%83%B9%E9%A5%AA%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《疯癫与文明》</title>
+    <link href="http://example.com/2021/03/07/%E7%96%AF%E7%99%AB%E4%B8%8E%E6%96%87%E6%98%8E/"/>
+    <id>http://example.com/2021/03/07/%E7%96%AF%E7%99%AB%E4%B8%8E%E6%96%87%E6%98%8E/</id>
+    <published>2021-03-06T16:00:00.000Z</published>
+    <updated>2021-03-10T10:40:18.930Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505290595l/36231959.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;· 这本书是看的实体书。&lt;br&gt;· 下面含有大量摘录与个人不成熟的想法。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>🍴 烹饪笔记 | 2021.2. 小炒肉、番茄牛肉与元宵晚宴</title>
+    <link href="http://example.com/2021/02/28/%F0%9F%8D%B4%20%E7%83%B9%E9%A5%AA%E7%AC%94%E8%AE%B0%20%202021.2.%20%E5%B0%8F%E7%82%92%E8%82%89%E3%80%81%E7%95%AA%E8%8C%84%E7%89%9B%E8%82%89%E4%B8%8E%E5%85%83%E5%AE%B5%E6%99%9A%E5%AE%B4/"/>
+    <id>http://example.com/2021/02/28/%F0%9F%8D%B4%20%E7%83%B9%E9%A5%AA%E7%AC%94%E8%AE%B0%20%202021.2.%20%E5%B0%8F%E7%82%92%E8%82%89%E3%80%81%E7%95%AA%E8%8C%84%E7%89%9B%E8%82%89%E4%B8%8E%E5%85%83%E5%AE%B5%E6%99%9A%E5%AE%B4/</id>
+    <published>2021-02-27T16:00:00.000Z</published>
+    <updated>2021-03-10T10:43:14.072Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ftp.bmp.ovh/imgs/2021/02/3cc776d8def4d49a.jpg&quot;&gt;&lt;br&gt;分别是三顿晚饭的内容，小圆子是元宵节的晚饭。&lt;br&gt;🍚 小炒肉和蒜蓉青菜、红豆小圆子都做过很多次了，没什么难度，都是非常家常且容易又美味的菜品。&lt;br&gt;🍚 番茄牛肉汤的话，汤泡饭吃倒是很好吃，但牛肉没什么味道，这点需要改进一下。&lt;br&gt;🍚 红烧鸡翅下次应该少放一下冰糖，且多煮一会，这样才会更加软烂。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="烹饪笔记" scheme="http://example.com/categories/%E7%83%B9%E9%A5%AA%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《蛤蟆先生去看心理医生》</title>
+    <link href="http://example.com/2020/11/10/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F/"/>
+    <id>http://example.com/2020/11/10/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F/</id>
+    <published>2020-11-09T16:00:00.000Z</published>
+    <updated>2021-03-10T10:39:03.044Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604273289l/55825059._SX318_.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;· 这本书是读的实体书。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《天生有罪》</title>
+    <link href="http://example.com/2020/11/10/%E5%A4%A9%E7%94%9F%E6%9C%89%E7%BD%AA/"/>
+    <id>http://example.com/2020/11/10/%E5%A4%A9%E7%94%9F%E6%9C%89%E7%BD%AA/</id>
+    <published>2020-11-09T16:00:00.000Z</published>
+    <updated>2021-03-10T14:53:15.649Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://img2.doubanio.com/view/subject/s/public/s29675003.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;[南非] 特雷弗·诺亚 / 董帅 / 未读·北京联合出版公司 / 2018-2-1 / 58.00&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《活着回来的男人：一个普通日本兵的二战及战后生命史》</title>
+    <link href="http://example.com/2020/11/05/%E6%B4%BB%E7%9D%80%E5%9B%9E%E6%9D%A5%E7%9A%84%E7%94%B7%E4%BA%BA%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E6%97%A5%E6%9C%AC%E5%85%B5%E7%9A%84%E4%BA%8C%E6%88%98%E5%8F%8A%E6%88%98%E5%90%8E%E7%94%9F%E5%91%BD%E5%8F%B2/"/>
+    <id>http://example.com/2020/11/05/%E6%B4%BB%E7%9D%80%E5%9B%9E%E6%9D%A5%E7%9A%84%E7%94%B7%E4%BA%BA%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E6%97%A5%E6%9C%AC%E5%85%B5%E7%9A%84%E4%BA%8C%E6%88%98%E5%8F%8A%E6%88%98%E5%90%8E%E7%94%9F%E5%91%BD%E5%8F%B2/</id>
+    <published>2020-11-04T16:00:00.000Z</published>
+    <updated>2021-03-10T10:43:02.043Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599223754l/55229440._SY475_.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;[日] 小熊英二 / 黄耀进 / 广西师范大学出版社 / 2017-1 / 62.00元&lt;br&gt;· 在微信读书阅读&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《回归故里》</title>
+    <link href="http://example.com/2020/11/04/%E5%9B%9E%E5%BD%92%E6%95%85%E9%87%8C/"/>
+    <id>http://example.com/2020/11/04/%E5%9B%9E%E5%BD%92%E6%95%85%E9%87%8C/</id>
+    <published>2020-11-03T16:00:00.000Z</published>
+    <updated>2021-03-10T10:43:30.260Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601456328l/55515268._SX318_.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;[法]迪迪埃·埃里蓬 / 王献 / 上海文化出版社 / 2020-7 / 48.00元&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《上瘾五百年》</title>
+    <link href="http://example.com/2020/10/26/%E4%B8%8A%E7%98%BE%E4%BA%94%E7%99%BE%E5%B9%B4/"/>
+    <id>http://example.com/2020/10/26/%E4%B8%8A%E7%98%BE%E4%BA%94%E7%99%BE%E5%B9%B4/</id>
+    <published>2020-10-25T16:00:00.000Z</published>
+    <updated>2021-03-10T12:09:54.152Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Created: Oct 26, 2020 6:15 PM&lt;br&gt;ISBN: 9787508646473&lt;br&gt;作者: 戴维·考特莱特&lt;br&gt;出版社: 中信出版社&lt;br&gt;国籍: 美国&lt;br&gt;封面: &lt;img src=&quot;https://img9.doubanio.com/view/subject/s/public/s27356554.jpg&quot;&gt;&lt;br&gt;评价: ⭐⭐⭐⭐&lt;br&gt;译者: 薛绚&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《人类砍头小史》</title>
+    <link href="http://example.com/2020/10/25/%E4%BA%BA%E7%B1%BB%E7%A0%8D%E5%A4%B4%E5%B0%8F%E5%8F%B2/"/>
+    <id>http://example.com/2020/10/25/%E4%BA%BA%E7%B1%BB%E7%A0%8D%E5%A4%B4%E5%B0%8F%E5%8F%B2/</id>
+    <published>2020-10-24T16:00:00.000Z</published>
+    <updated>2021-03-12T10:44:34.094Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Created: Oct 25, 2020 2:43 PM&lt;br&gt;ISBN: 9787544366489&lt;br&gt;丛书: 斯坦威人文丛书&lt;br&gt;作者: 弗朗西斯·拉尔森&lt;br&gt;出版社: 海南出版社&lt;br&gt;国籍: 英国&lt;br&gt;封面: &lt;img src=&quot;https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=462631243,1540715108&amp;fm=26&amp;gp=0.jpg&quot;&gt;&lt;br&gt;评价: ⭐⭐⭐⭐⭐&lt;br&gt;译者: 秦传安&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《鱼翅与花椒》</title>
+    <link href="http://example.com/2020/10/19/%E9%B1%BC%E7%BF%85%E4%B8%8E%E8%8A%B1%E6%A4%92/"/>
+    <id>http://example.com/2020/10/19/%E9%B1%BC%E7%BF%85%E4%B8%8E%E8%8A%B1%E6%A4%92/</id>
+    <published>2020-10-18T16:00:00.000Z</published>
+    <updated>2021-03-10T12:10:40.984Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Created: Oct 19, 2020 9:08 PM&lt;br&gt;丛书: 译文纪实&lt;br&gt;作者: 扶霞·邓洛普&lt;br&gt;出版社: 上海译文出版社&lt;br&gt;国籍: 英国&lt;br&gt;封面: &lt;img src=&quot;https://img9.doubanio.com/view/subject/s/public/s29767895.jpg&quot;&gt;&lt;br&gt;评价: ⭐⭐⭐⭐&lt;br&gt;译者: 何雨珈&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《当呼吸化为空气》</title>
+    <link href="http://example.com/2020/10/17/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94/"/>
+    <id>http://example.com/2020/10/17/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94/</id>
+    <published>2020-10-16T16:00:00.000Z</published>
+    <updated>2021-03-12T10:44:01.228Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Created: Oct 17, 2020 1:16 AM&lt;br&gt;作者: 保罗·卡拉尼什&lt;br&gt;出版社: 猫头鹰文化·浙江文艺出版社&lt;br&gt;国籍: 美国&lt;br&gt;封面: &lt;img src=&quot;https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1601541291,3944141073&amp;fm=26&amp;gp=0.jpg&quot;&gt;&lt;br&gt;评价: ⭐⭐⭐⭐⭐&lt;br&gt;译者: 何雨珈&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《病毒星球》</title>
+    <link href="http://example.com/2020/10/17/%E7%97%85%E6%AF%92%E6%98%9F%E7%90%83/"/>
+    <id>http://example.com/2020/10/17/%E7%97%85%E6%AF%92%E6%98%9F%E7%90%83/</id>
+    <published>2020-10-16T16:00:00.000Z</published>
+    <updated>2021-03-12T10:39:39.998Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Created: Oct 17, 2020 1:16 AM&lt;br&gt;作者: 卡尔·齐默&lt;br&gt;出版社: 广西师范大学出版社&lt;br&gt;国籍: 美国&lt;br&gt;封面: &lt;img src=&quot;https://img9.doubanio.com/view/subject/s/public/s32294606.jpg&quot;&gt;&lt;br&gt;评价: ⭐⭐⭐⭐⭐&lt;br&gt;译者: 刘旸&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《肠子的小心思》</title>
+    <link href="http://example.com/2020/10/17/%E8%82%A0%E5%AD%90%E7%9A%84%E5%B0%8F%E5%BF%83%E6%80%9D/"/>
+    <id>http://example.com/2020/10/17/%E8%82%A0%E5%AD%90%E7%9A%84%E5%B0%8F%E5%BF%83%E6%80%9D/</id>
+    <published>2020-10-16T16:00:00.000Z</published>
+    <updated>2021-03-10T12:10:17.229Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Created: Oct 17, 2020 9:58 PM&lt;br&gt;作者: 朱莉娅·恩德斯&lt;br&gt;出版社: 江苏凤凰科学技术出版社&lt;br&gt;国籍: 德国&lt;br&gt;封面: &lt;img src=&quot;https://img1.doubanio.com/view/subject/s/public/s28381539.jpg&quot;&gt;&lt;br&gt;评价: ⭐⭐⭐⭐⭐&lt;br&gt;译者: 钱为&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>📖读书笔记 | 《寻路中国》</title>
+    <link href="http://example.com/2020/10/10/%E5%AF%BB%E8%B7%AF%E4%B8%AD%E5%9B%BD/"/>
+    <id>http://example.com/2020/10/10/%E5%AF%BB%E8%B7%AF%E4%B8%AD%E5%9B%BD/</id>
+    <published>2020-10-09T16:00:00.000Z</published>
+    <updated>2021-03-10T10:39:50.583Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386167352l/19177024.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;[美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2011-1 / 33.00元&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+</feed>
