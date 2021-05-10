@@ -16,7 +16,7 @@
     <url>/2021/05/10/%E4%B8%AA%E4%BA%BA%E5%90%91%E6%AD%8C%E8%88%9E%E8%A7%86%E9%A2%91%E5%AE%89%E5%88%A9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="个人向歌舞视频安利"><a href="#个人向歌舞视频安利" class="headerlink" title="个人向歌舞视频安利"></a><strong>个人向歌舞视频安利</strong></h2><p>纯路人不专业系安利，安利的完全是自己看着high的视频。</p>
 <p>不断更新中······</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!--more--&gt;)</span><br></pre></td></tr></table></figure>
+<span id="more"></span>)
 
 <h3 id="亚洲"><a href="#亚洲" class="headerlink" title="亚洲"></a><strong>亚洲</strong></h3><hr>
 <h5 id="印度："><a href="#印度：" class="headerlink" title="印度："></a>印度：</h5><p>1.【为何戏弄我】舞神Madhuri</p>
@@ -201,6 +201,33 @@
       </categories>
   </entry>
   <entry>
+    <title>网站建设日志</title>
+    <url>/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>2021年4月28日</p>
+<ol>
+<li>去掉了一言api，感觉里面有些句子质量好低，都是没意义的废话。</li>
+<li>更换了题图，不再使用bing每日更新的图片，换成了固定的图片（因为bing的图质量也参差不齐</li>
+</ol>
+<p>2021年3月10日</p>
+<ol>
+<li>修改了一些文章的格式；</li>
+<li>上传了读书笔记两篇。</li>
+</ol>
+<p>2021年3月09日</p>
+<ol>
+<li>首页图片修改为bing的每日图片；</li>
+<li>新增了音乐播放功能，来一起听音乐吧~ 🎶</li>
+<li>抓了一些小虫子。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>📖读书笔记 | 《蛤蟆先生去看心理医生》</title>
     <url>/2020/11/10/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604273289l/55825059._SX318_.jpg" style="zoom:67%;" />
@@ -343,33 +370,6 @@
       <categories>
         <category>读书笔记</category>
       </categories>
-  </entry>
-  <entry>
-    <title>网站建设日志</title>
-    <url>/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>2021年4月28日</p>
-<ol>
-<li>去掉了一言api，感觉里面有些句子质量好低，都是没意义的废话。</li>
-<li>更换了题图，不再使用bing每日更新的图片，换成了固定的图片（因为bing的图质量也参差不齐</li>
-</ol>
-<p>2021年3月10日</p>
-<ol>
-<li>修改了一些文章的格式；</li>
-<li>上传了读书笔记两篇。</li>
-</ol>
-<p>2021年3月09日</p>
-<ol>
-<li>首页图片修改为bing的每日图片；</li>
-<li>新增了音乐播放功能，来一起听音乐吧~ 🎶</li>
-<li>抓了一些小虫子。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
   </entry>
   <entry>
     <title>🍴 烹饪笔记 | 2021.2. 小炒肉、番茄牛肉与元宵晚宴</title>
