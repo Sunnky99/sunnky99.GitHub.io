@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>About Me</title>
+    <url>/2021/03/09/about/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>📔<strong>业余的读书爱好者</strong>：平时会读点书写点笔记，读书笔记是真的笔记，感想也是胡言乱语，本质是个没什么思想的芦苇。</p>
+<p>🎮<strong>业余的游戏爱好者</strong>：半途而废与手残十级选手，虽然什么游戏都会玩一玩但还是喜欢休闲游戏一些。</p>
+<p>👻<strong>业余的人类</strong>：日常不想当人，做人很废物，最近比较想当树。</p>
+]]></content>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>个人向歌舞视频安利</title>
     <url>/2021/05/10/%E4%B8%AA%E4%BA%BA%E5%90%91%E6%AD%8C%E8%88%9E%E8%A7%86%E9%A2%91%E5%AE%89%E5%88%A9/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="个人向歌舞视频安利"><a href="#个人向歌舞视频安利" class="headerlink" title="个人向歌舞视频安利"></a><strong>个人向歌舞视频安利</strong></h2><p>纯路人不专业系安利，安利的完全是自己看着high的视频。</p>
 <p>不断更新中······</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!--more--&gt;)</span><br></pre></td></tr></table></figure>
+
 <h3 id="亚洲"><a href="#亚洲" class="headerlink" title="亚洲"></a><strong>亚洲</strong></h3><hr>
 <h5 id="印度："><a href="#印度：" class="headerlink" title="印度："></a>印度：</h5><p>1.【为何戏弄我】舞神Madhuri</p>
 <p><a href="https://www.bilibili.com/video/BV1Ws411X7Ak">https://www.bilibili.com/video/BV1Ws411X7Ak</a></p>
@@ -92,17 +105,6 @@
       <categories>
         <category>随笔</category>
       </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>About Me</title>
-    <url>/2021/03/09/about/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>📔<strong>业余的读书爱好者</strong>：平时会读点书写点笔记，读书笔记是真的笔记，感想也是胡言乱语，本质是个没什么思想的芦苇。</p>
-<p>🎮<strong>业余的游戏爱好者</strong>：半途而废与手残十级选手，虽然什么游戏都会玩一玩但还是喜欢休闲游戏一些。</p>
-<p>👻<strong>业余的人类</strong>：日常不想当人，做人很废物，最近比较想当树。</p>
-]]></content>
       <tags>
         <tag>随笔</tag>
       </tags>
@@ -197,33 +199,6 @@
       <categories>
         <category>读书笔记</category>
       </categories>
-  </entry>
-  <entry>
-    <title>网站建设日志</title>
-    <url>/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>2021年4月28日</p>
-<ol>
-<li>去掉了一言api，感觉里面有些句子质量好低，都是没意义的废话。</li>
-<li>更换了题图，不再使用bing每日更新的图片，换成了固定的图片（因为bing的图质量也参差不齐</li>
-</ol>
-<p>2021年3月10日</p>
-<ol>
-<li>修改了一些文章的格式；</li>
-<li>上传了读书笔记两篇。</li>
-</ol>
-<p>2021年3月09日</p>
-<ol>
-<li>首页图片修改为bing的每日图片；</li>
-<li>新增了音乐播放功能，来一起听音乐吧~ 🎶</li>
-<li>抓了一些小虫子。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>随笔</tag>
-      </tags>
   </entry>
   <entry>
     <title>📖读书笔记 | 《蛤蟆先生去看心理医生》</title>
@@ -368,6 +343,33 @@
       <categories>
         <category>读书笔记</category>
       </categories>
+  </entry>
+  <entry>
+    <title>网站建设日志</title>
+    <url>/2021/03/10/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>2021年4月28日</p>
+<ol>
+<li>去掉了一言api，感觉里面有些句子质量好低，都是没意义的废话。</li>
+<li>更换了题图，不再使用bing每日更新的图片，换成了固定的图片（因为bing的图质量也参差不齐</li>
+</ol>
+<p>2021年3月10日</p>
+<ol>
+<li>修改了一些文章的格式；</li>
+<li>上传了读书笔记两篇。</li>
+</ol>
+<p>2021年3月09日</p>
+<ol>
+<li>首页图片修改为bing的每日图片；</li>
+<li>新增了音乐播放功能，来一起听音乐吧~ 🎶</li>
+<li>抓了一些小虫子。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
   </entry>
   <entry>
     <title>🍴 烹饪笔记 | 2021.2. 小炒肉、番茄牛肉与元宵晚宴</title>
